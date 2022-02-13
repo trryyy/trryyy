@@ -1,4 +1,4 @@
-# Hi there, I'm [Try](bit.ly/try-wijono) 👋 
+# Hi there, I'm [Try](https://bit.ly/try-wijono) 👋 
 
 [![Website](https://img.shields.io/website?label=Try%27s%20Website&style=for-the-badge&up_message=online&url=https%3A%2F%2Fbit.ly%2Ftry-wijono)](https://bit.ly/try-wijono)
 
