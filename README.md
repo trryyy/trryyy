@@ -6,7 +6,6 @@
 ## I'm a Husband and Engineer!
 
 - 🌱 I’m currently learning NextJS
-- 🥅 2022 Goals: Learn more about web3 and perhaps contribute to open source projects
 - ⚡ Fun fact: I am a Star Wars fan!
 
 ### Connect with me:
