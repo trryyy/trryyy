@@ -2,7 +2,7 @@
 
 ## I'm a Husband and Engineer!
 
-- 🌱 Making a difference to the property tech in [99.co](https://www.99.co)!j
+- 🌱 Making a difference to the property tech in [99.co](https://www.99.co)!
 - ⚡ Fun fact: I am a Star Wars fan!
 
 ### Connect with me:
