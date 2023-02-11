@@ -2,7 +2,7 @@
 
 ## I'm a Husband and Engineer!
 
-- 🌱 I’m currently learning NextJS
+- 🌱 Making a difference to the property tech in [99.co](https://www.99.co)!j
 - ⚡ Fun fact: I am a Star Wars fan!
 
 ### Connect with me:
