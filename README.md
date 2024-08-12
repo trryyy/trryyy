@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Website" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" style="padding-right:10px;" />](https://bit.ly/try-wijono)
+[<img align="left" alt="Website" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" style="padding-right:10px;" />](https://www.trywijono.com)
 &nbsp;&nbsp;
 [<img align="left" alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://linkedin.com/in/try-wijono)
 &nbsp;&nbsp;
