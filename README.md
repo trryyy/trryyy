@@ -1,4 +1,4 @@
-# Hi there, I'm [Try](https://bit.ly/try-wijono) 👋 
+# Hi there, I'm [Try](https://www.trywijono.com) 👋 
 
 ## I'm a Husband and Engineer!
 
@@ -39,6 +39,6 @@
 
 </details>
 
-[website]: https://bit.ly/try-wijono
+[website]: https://www.trywijono.com
 [instagram]: https://instagram.com/tuhrye
 [linkedin]: https://linkedin.com/in/try-wijono
