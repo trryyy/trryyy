@@ -2,7 +2,7 @@
 
 ## I'm a Husband and Engineer!
 
-- 🌱 Making a difference to the property tech in [99.co](https://www.99.co)!
+- 🌱 Making a difference to the fintech in [TI&M](https://www.ti8m.ch)!
 - ⚡ Fun fact: I am a Star Wars fan!
 
 ### Connect with me:
